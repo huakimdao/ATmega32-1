@@ -30,7 +30,7 @@ float beta=0.0;    // initial parameters [K]
 float Rinf=0.0;    // initial parameters [ohm]
 float TempK=0.0;   // variable output
 float TempC=0.0;   // variable output
-char buffer0[200],buffer1[200],buffer2[100],buffer3[100],buffer4[100];
+char buffer0[200],buffer1[200],buffer2[100],buffer3[100],buffer4[100]; //create buffers
 
 int main() 
 {
